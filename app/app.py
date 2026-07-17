@@ -112,9 +112,3 @@ if uploaded_file is not None:
 
 st.markdown("---")
 st.markdown("Developed by Sandeep Singh Chouhan")
-
-## eroor handling
-try:
-    predictions = model.predict(data)
-except Exception as e:
-    st.error(f"Prediction failed: {e}")
