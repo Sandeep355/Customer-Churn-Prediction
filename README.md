@@ -124,7 +124,7 @@ Add screenshots of:
 - Dashboard
 - Charts
 
-Store them in the `images/` folder.
+Store them in the `screenshots/` folder.
 
 
 ## 🔮 Future Improvements
