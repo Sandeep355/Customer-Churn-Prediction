@@ -46,7 +46,7 @@ Customer-Churn-Prediction/
 ├── models/
 │   └── churn_prediction_model.pkl
 ├── notebooks/
-├── images/
+├── screenshots/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
